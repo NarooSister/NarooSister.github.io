@@ -3,7 +3,7 @@ layout: post
 title: 깃허브 블로그 만들기
 date: 2024-02-16 15:57:20 +0900
 description: # Add post description (optional)
-img: github-mark-white.png # Add image post (optional)
+img: github.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [blog, git]
 ---
